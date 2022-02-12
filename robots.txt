@@ -1,1 +1,0 @@
-Sitemap: http://main.htm/sitemap.xml
